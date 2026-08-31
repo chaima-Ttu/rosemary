@@ -4,7 +4,7 @@ Rosemary is a full-stack PHP & MySQL e-commerce web application designed for an 
 
 ## Tech Stack & Prerequisites
 
-* **Frontend:** HTML5, CSS3, JavaScript (Vanilla ES6)[cite: 1]
+* **Frontend:** HTML5, CSS, JavaScript 
 * **Backend:** PHP
 * **Database:** MySQL
 * **Local Server Environment:** XAMPP (PHP 8.x + MySQL)
