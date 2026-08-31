@@ -1,3 +1,14 @@
-jk
+# Rosemary — E-Commerce Web Application
 
-check Rosemary Project Presentation.pdf for more details 
+Rosemary is a full-stack PHP & MySQL e-commerce web application designed for an online café and bakery. It allows users to browse drinks and desserts, manage an interactive shopping cart, toggle dark mode, and complete orders online.
+
+## Tech Stack & Prerequisites
+
+* **Frontend:** HTML5, CSS3, JavaScript (Vanilla ES6)[cite: 1]
+* **Backend:** PHP
+* **Database:** MySQL
+* **Local Server Environment:** XAMPP (PHP 8.x + MySQL)
+
+## Media & Presentation
+
+Check `Rosemary Project Presentation.pdf` for more details
