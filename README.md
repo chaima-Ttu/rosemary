@@ -11,4 +11,5 @@ Rosemary is a full-stack PHP & MySQL e-commerce web application designed for an 
 
 Check `Rosemary Project Presentation.pdf` for more details
 ## Media & Presentation
-<img width="480" height="360" alt="TheSimpsonsHelloGIF" src="https://github.com/user-attachments/assets/81940f2d-8300-4aae-aeaa-ce7e85d4c631" />
+
+<img width="480" height="476" alt="CatBlushingGIF" src="https://github.com/user-attachments/assets/cab2cbd7-8f1e-454b-a5db-a60764e5ed00" />
